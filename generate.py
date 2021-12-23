@@ -3,7 +3,7 @@ import json
 import urllib
 import requests
 
-site = 'https://blog.mhuig.top'
+site = 'https://yuanyz.com'
 sitemaps = ['/post-sitemap.xml','/page-sitemap.xml']
 
 result = []
